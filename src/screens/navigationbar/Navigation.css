@@ -1,8 +1,11 @@
-.navigation-container {
+/*.navigation-container {
     background-color: var(--nav-color);
     color: white;
 }
 
+*/ .navigation-container {
+    background-color: black;
+}
 .navbar-light .navbar-nav .nav-link {
     color: var(--font-color) !important;
 }
