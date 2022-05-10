@@ -12,7 +12,3 @@
   --font-color: hsl(0, 0%, 100%);
   --font-color-hover: hsl(0, 0%, 30%);
 }
-#tsparticles {
-  height: 100vh;
-  position: "absolute";
-}
