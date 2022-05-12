@@ -11,4 +11,14 @@
   --light-color: hsl(209, 100%, 92%);
   --font-color: hsl(0, 0%, 100%);
   --font-color-hover: hsl(0, 0%, 30%);
+  --ag-logo-color: #aedcf3;
+    --ag-logo-dark: #081a1e;
+    --ag-logo-bluedark: #e4eaed;
+  
+  
+  }
+  
+  body {
+    height: 100%;
+    overflow-x: hidden;
 }

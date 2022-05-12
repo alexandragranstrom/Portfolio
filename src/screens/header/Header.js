@@ -8,11 +8,10 @@ function Header() {
       <Typed 
         strings={[
           " ", 
-          "A Software Engineer", 
-          "Also known as an", 
-          "Front-end developer", 
-          "Back-end developer", 
-          "Full stack developer", 
+          "An outgoing Software Engineer", 
+          "Also known as a", 
+          "Happy Front-end developer", 
+          "Communicative Back-end developer", 
           "Or!", 
           '"a coder"', 
           " ", 
